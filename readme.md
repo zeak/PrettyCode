@@ -1,4 +1,4 @@
-** Make Your C++ Code Clean **
+**Make Your C++ Code Clean**
 
 
 Simple Script to clean the C++ code 
